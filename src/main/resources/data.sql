@@ -1,0 +1,13 @@
+insert into Alien(aid, aname, tech) values (1, 'Hello', 'Java')
+insert into Alien(aid, aname, tech) values (2, 'World', 'ML')
+insert into Alien(aid, aname, tech) values (3, 'Manish', 'Spring Boot')
+insert into Alien(aid, aname, tech) values (4, 'Mulani', 'Redis')
+insert into Alien(aid, aname, tech) values (5, 'Comeon', 'Docker')
+insert into Alien(aid, aname, tech) values (6, 'YoYo', 'ElasticSearch')
+insert into Alien(aid, aname, tech) values (7, 'People', 'Kafka')
+insert into Alien(aid, aname, tech) values (8, 'Folks', 'AWS')
+insert into Alien(aid, aname, tech) values (9, 'TT', 'Java')
+insert into Alien(aid, aname, tech) values (10, 'PP', 'AWS')
+insert into Alien(aid, aname, tech) values (11, 'RR', 'Docker')
+insert into Alien(aid, aname, tech) values (12, 'XX', 'ML')
+
